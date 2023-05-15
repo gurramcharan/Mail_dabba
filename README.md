@@ -1,2 +1,2 @@
 # Mail_dabba
-Created with CodeSandbox
+A basic mail app created with ReactJs used to describe basic functionalities of g-mail.
